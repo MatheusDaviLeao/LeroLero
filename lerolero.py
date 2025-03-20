@@ -19,7 +19,7 @@ parte2 = [
 ]
 
 parte3 = [
-  "as aplicações a que se destinam",
+  "nas aplicações a que se destinam",
   "em relação às opções disponíveis no mercado",
   "provendo ampla vantagem competitiva a seu usuário"
 ]
