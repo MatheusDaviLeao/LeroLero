@@ -4,7 +4,7 @@ Gera frases de efeito sem significado real"""
 
 import random
 
-<<<<<<< HEAD
+
 # listas de possibilidades para cada uma das partes.
 
 parte1 = [
