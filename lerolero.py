@@ -4,7 +4,7 @@ Gera frases de efeito sem significado real***
 
 import random
 
-parte 1 = []
+parte 1 = ["a"]
 parte 2 = []
 parte 3 = []
 
