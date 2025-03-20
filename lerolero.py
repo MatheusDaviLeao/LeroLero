@@ -1,6 +1,6 @@
-***Gerador de Lero-lero
+"""Gerador de Lero-lero
 
-Gera frases de efeito sem significado real***
+Gera frases de efeito sem significado real"""
 
 import random
 
